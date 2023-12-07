@@ -1,3 +1,9 @@
 # ETS-GrafKom-Inisial3D
-| Name | NRP |
-| ----- | ----- |
+
+
+| **Nama** | **NRP** | 
+| ------------- | --------- |
+| Andrian Tambunan  | 5025211018 | 
+
+## Deployment 
+https://andriantambunan.github.io/ETS-GrafKom-Inisial3D/
